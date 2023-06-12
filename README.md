@@ -26,6 +26,7 @@ npm install
 
 ```bash
 npm run serve
+npm run serve --port 8000
 ```
 
 ### Compiles and minifies for production
