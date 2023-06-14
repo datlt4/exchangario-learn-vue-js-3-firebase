@@ -28,7 +28,7 @@ export default {
   props: {
     title: {
       type: String,
-      default: "Exchangari0",
+      default: "Exchangario",
     },
     items: {
       type: Array,
